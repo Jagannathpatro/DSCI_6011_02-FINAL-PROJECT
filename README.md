@@ -1,5 +1,5 @@
 # DSCI_6011_02-FINAL-PROJECT by Sravya Kaitha, Jagannath Patro Allupati and Narsi Reddy Sanivarapu
-# Project :Enhanced Customer Experience: Product Complaints Identification
+# Project : Enhanced Customer Experience: Product Complaints Identification
 
 ## Project Overview
 This project utilizes Natural Language Processing (NLP) techniques to automatically identify and categorize customer product complaints from textual data. The goal is to enhance customer service efficiency by automating the complaint handling process.
